@@ -35,6 +35,7 @@ Estrutura sugerida para organizar os dados:
 ```text
 datasets/
   train/
+  val/
   test/
 ```
 
